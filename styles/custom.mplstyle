@@ -1,0 +1,30 @@
+lines.color: 2F3235
+patch.edgecolor: 2F3235
+
+text.color: 2F3235
+
+axes.facecolor: FFFFFF
+axes.edgecolor: 2F3235
+axes.labelcolor: 2F3235
+
+axes.prop_cycle: cycler('color', [ '1F91D5', 'AF518D', 'E07A5F', 'FFE74C', 'A8D3E6'])
+
+xtick.color: 2F3235
+ytick.color: 2F3235
+
+legend.framealpha: 0
+
+grid.color: F8F8F2
+
+figure.facecolor: FFFFFF
+figure.edgecolor: FFFFFF
+
+savefig.facecolor: FFFFFF
+savefig.edgecolor: FFFFFF
+
+### Boxplots
+boxplot.boxprops.color: 2F3235
+boxplot.capprops.color: 2F3235
+boxplot.flierprops.color: 2F3235
+boxplot.flierprops.markeredgecolor: 2F3235
+boxplot.whiskerprops.color: 2F3235

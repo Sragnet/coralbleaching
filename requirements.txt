@@ -1,0 +1,9 @@
+ipywidgets
+openpyxl
+pandas
+numpy
+matplotlib
+geopandas
+pandoc
+opencv-python-headless
+ipython
